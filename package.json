@@ -1,0 +1,14 @@
+{
+  "name": "n1ck_pro-bot",
+  "version": "1.0.0",
+  "description": "why did I make this",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marsmi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0"
+  }
+}
